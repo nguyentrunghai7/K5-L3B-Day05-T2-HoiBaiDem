@@ -1,6 +1,6 @@
 # LAB05 · T2 Giáo dục · Hỏi bài đêm
 
-**Lớp dự kiến:** L3B · **Track:** T2 · **Zone:** [điền nếu có]
+**Lớp:** L3B · **Track:** T2 · 
 
 | Họ tên | Mã học viên | Phần việc |
 |---|---|---|
@@ -86,5 +86,5 @@ Giới hạn còn lại: ba ca cố định, chưa kiểm được câu hỏi t�
 
 Mở C6, chỉ nhãn và nguồn; bấm xem phiếu, quay lại một lần rồi xác nhận và thu hồi. Đổi sang C5 để chỉ ra lý do trợ lý chỉ hỏi bước làm. Khi nhận ca lạ, xác định căn cứ, chọn mức của tool và nói người dùng thấy gì tiếp theo.
 
-**Ca lạ nhận tại buổi demo:** [điền sau demo]. **Điều chỉnh sau ca đó:** [điền sau demo].
+
 
