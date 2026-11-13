@@ -4,7 +4,7 @@
 
 | Họ tên | Mã học viên | Phần việc |
 |---|---|---|
-| [điền] | [điền] | Bài cá nhân. Soát quyết định, chạy thử và trình bày prototype. |
+| Nguyễn Trung Hải | 2A202603728 | Bài cá nhân. Soát quyết định, chạy thử và trình bày prototype. |
 
 ## §1. Lát cắt và phạm vi
 
